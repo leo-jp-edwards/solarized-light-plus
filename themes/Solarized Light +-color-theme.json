@@ -1,5 +1,5 @@
 {
-	"name": "Solarized Light +",
+	"name": "Solarized Light Plus",
 	"type": "light",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -2100,3 +2100,4 @@
 	  "debugExceptionWidget.border": "#000000"
 	}
   }
+  
