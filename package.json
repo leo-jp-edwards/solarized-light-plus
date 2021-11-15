@@ -1,0 +1,21 @@
+{
+    "name": "1",
+    "displayName": "solarized light +",
+    "description": "An improved solarized light",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Light +",
+                "uiTheme": "vs",
+                "path": "./themes/Solarized Light +-color-theme.json"
+            }
+        ]
+    }
+}
