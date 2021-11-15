@@ -1,7 +1,7 @@
 {
 	"name": "Solarized Light Plus",
 	"type": "light",
-	"semanticHighlighting": true,
+	"semanticHighlighting": false,
 	"semanticTokenColors": {
 	  "enumMember": {
 		"foreground": "#000000"
